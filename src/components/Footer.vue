@@ -15,7 +15,9 @@
       </p>
       <p class="mt-4">
         To find further advice, help and support visit:
-        <span class="text-[#C6A3FF] font-bold">https://www.begambleaware.org/</span>
+        <span class="text-[#C6A3FF] font-bold hover:underline"
+          ><a href="https://www.begambleaware.org/">https://www.begambleaware.org/</a></span
+        >
       </p>
     </div>
     <div class="flex justify-center items-center gap-x-6 sm:gap-x-10 mt-10 md:mt-0">
