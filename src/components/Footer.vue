@@ -2,7 +2,7 @@
   <div
     class="flex flex-col md:grid grid-cols-2 bg-[#020008] text-white font-acme w-full h-full py-[40px] px-[60px] gap-x-10 uppercase"
   >
-    <div class="flex flex-col text-sm font-acme">
+    <div class="flex flex-col text-sm font-acme text-center md:text-start">
       <p>
         If you ever feel that gambling is becoming a
         <span class="text-[#C6A3FF] font-bold">problem</span>, we urge you to seek help and
@@ -18,7 +18,7 @@
         <span class="text-[#C6A3FF] font-bold">https://www.begambleaware.org/</span>
       </p>
     </div>
-    <div class="flex justify-center items-center gap-x-10 mt-10 md:mt-0">
+    <div class="flex justify-center items-center gap-x-6 sm:gap-x-10 mt-10 md:mt-0">
       <img
         src="../assets/footer-icon-1.png"
         alt="footer-icon-1"

@@ -11,7 +11,7 @@ import HeroSection from './components/HeroSection.vue'
     </div>
   </header>
 
-  <main class="w-full h-full">
+  <main class="w-full h-full overflow-hidden">
     <HeroSection />
   </main>
 
