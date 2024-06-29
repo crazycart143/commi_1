@@ -6,7 +6,7 @@
       class="w-full lg:w-[1000px] h-full flex gap-x-6 lg:gap-x-[8vw] md:grid grid-cols-2 mt-[160px] px-10 font-acme"
     >
       <div
-        class="flex flex-col gap-y-10 justify-center items-center text-white text-[2.8vw] md:text-[2.4vw] lg:text-[2vw] text-center text-pretty"
+        class="flex flex-col gap-y-10 justify-center items-center text-white text-[2.8vw] md:text-[2.4vw] lg:text-[1.6vw] text-center"
       >
         <h1>
           I GAMBLE AND LOSE MOST OF THE TIME <br />
